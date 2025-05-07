@@ -1,0 +1,34 @@
+{
+    "tripName": "Midlife-Crisis",
+    "traveler": {
+        "name": "Kit Keller",
+        "contact": {
+            "email": "thisisit@email.com",
+            "phone": "(314) 555-555"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Grand Canyon",
+            "activity": [{
+                "title": "sky diving",
+                "time": "06:00"
+            },
+            {
+                "title": "Escape without getting arrested",
+                "time": "Directly after landing"
+            }]
+        },
+        {
+            "location": "Iceland",
+            "activity": [{
+                "title": "hiking",
+                "time": "06:00"
+            },
+            {
+                "title": "hot springs",
+                "time": "11:00"
+            }]
+        }
+    ]
+}
